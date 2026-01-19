@@ -1,7 +1,7 @@
 # Analyzing-Large-Scale-Apple-Retail-Sales-Data-Using-SQL
 This project involves analyzing over one million Apple retail sales records using advanced SQL techniques, including joins, aggregations, and window functions, to support data-driven business insights and evaluate sales trends, store performance, and product demand across multiple regions.
 
-# ![Apple Logo](https://github.com/najirh/Apple-Retail-Sales-SQL-Project---Analyzing-Millions-of-Sales-Rows/blob/main/Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg) Analyzig Large Scale Apple Retail Sales Data Using SQL
+# ![https://github.com/pournima2413/Analyzing-Large-Scale-Apple-Retail-Sales-Data-Using-SQL/blob/main/apple-img.webp] Analyzig Large Scale Apple Retail Sales Data Using SQL
 
 ## Project Overview
 
