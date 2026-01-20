@@ -51,8 +51,6 @@ The project uses five main tables:
 
 The project is split into three tiers of questions to test SQL skills of increasing complexity:
 
-### Easy to Medium (10 Questions)
-
 1. Find the number of stores in each country.
 ```sql
 SELECT 
